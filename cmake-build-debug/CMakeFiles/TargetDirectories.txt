@@ -1,0 +1,3 @@
+/Users/s1pex/Documents/workspaces/selfLearning_CPP/workspace/stack_heap_Ptr_Practice/cmake-build-debug/CMakeFiles/stack_heap_Ptr_Practice.dir
+/Users/s1pex/Documents/workspaces/selfLearning_CPP/workspace/stack_heap_Ptr_Practice/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/s1pex/Documents/workspaces/selfLearning_CPP/workspace/stack_heap_Ptr_Practice/cmake-build-debug/CMakeFiles/rebuild_cache.dir

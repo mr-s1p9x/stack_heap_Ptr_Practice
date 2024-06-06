@@ -1,0 +1,17 @@
+# ninja log v5
+1	552	1717669070715737855	CMakeFiles/stack_heap_Ptr_Practice.dir/main.cpp.o	b740e08c7bf0852e
+553	663	1717669070828682505	stack_heap_Ptr_Practice	c13be4b7df961b0e
+3	504	1717669217552129104	CMakeFiles/stack_heap_Ptr_Practice.dir/main.cpp.o	b740e08c7bf0852e
+504	598	1717669217647065366	stack_heap_Ptr_Practice	c13be4b7df961b0e
+3	324	1717669224376181326	CMakeFiles/stack_heap_Ptr_Practice.dir/main.cpp.o	b740e08c7bf0852e
+325	358	1717669224411876739	stack_heap_Ptr_Practice	c13be4b7df961b0e
+10	582	1717670381226494780	CMakeFiles/stack_heap_Ptr_Practice.dir/main.cpp.o	b740e08c7bf0852e
+582	699	1717670381344412065	stack_heap_Ptr_Practice	c13be4b7df961b0e
+3	323	1717670386772849454	CMakeFiles/stack_heap_Ptr_Practice.dir/main.cpp.o	b740e08c7bf0852e
+323	354	1717670386804700660	stack_heap_Ptr_Practice	c13be4b7df961b0e
+3	314	1717670396092683923	CMakeFiles/stack_heap_Ptr_Practice.dir/main.cpp.o	b740e08c7bf0852e
+314	359	1717670396134832273	stack_heap_Ptr_Practice	c13be4b7df961b0e
+4	493	1717670594628822323	CMakeFiles/stack_heap_Ptr_Practice.dir/main.cpp.o	b740e08c7bf0852e
+494	586	1717670594722969512	stack_heap_Ptr_Practice	c13be4b7df961b0e
+4	475	1717670615095705425	CMakeFiles/stack_heap_Ptr_Practice.dir/main.cpp.o	b740e08c7bf0852e
+476	563	1717670615184542358	stack_heap_Ptr_Practice	c13be4b7df961b0e

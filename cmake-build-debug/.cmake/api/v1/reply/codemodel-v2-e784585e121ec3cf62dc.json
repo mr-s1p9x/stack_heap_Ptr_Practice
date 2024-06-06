@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "stack_heap_Ptr_Practice",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "stack_heap_Ptr_Practice::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stack_heap_Ptr_Practice-Debug-002d6b6f88c859734203.json",
+					"name" : "stack_heap_Ptr_Practice",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/s1pex/Documents/workspaces/selfLearning_CPP/workspace/stack_heap_Ptr_Practice/cmake-build-debug",
+		"source" : "/Users/s1pex/Documents/workspaces/selfLearning_CPP/workspace/stack_heap_Ptr_Practice"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
